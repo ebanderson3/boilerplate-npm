@@ -1,5 +1,6 @@
 {
 	"author": "Elliot Anderson",
+	"description": "This is a very important project. DO NOT LOSE",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
